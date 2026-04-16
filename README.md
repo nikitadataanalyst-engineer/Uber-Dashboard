@@ -82,17 +82,6 @@ Uber-Dashboard/
 │── README.md
 <br><br>
 <br>
-
----
-
-## 🚀 How to Use<br>  
-1. Download the `.pbix` file<br>  
-2. Open it in **Power BI Desktop**<br>  
-3. Navigate through different pages (Overview, Vehicle, Revenue, Customer)<br>  
-4. Interact with filters and visuals to explore insights<br><br>
-
----
-
 ## 📌 Conclusion<br>  
 This dashboard provides a **comprehensive view of Uber operations**, enabling **data-driven decision-making** and helping improve overall business performance.<br><br>
 
