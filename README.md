@@ -75,11 +75,11 @@ It helps in understanding **customer behavior, revenue trends, booking patterns,
 ---
 
 ## 📂 Project Structure<br>  
-Uber-Dashboard/
-│── Uber Dashboard.pbix
-│── Dataset/
-│── Screenshots/
-│── README.md
+Uber-Dashboard/<br>
+│── Uber Dashboard.pbix<br>
+│── Dataset/<br>
+│── Screenshots/<br>
+│── README.md<br>
 <br><br>
 <br>
 ## 📌 Conclusion<br>  
